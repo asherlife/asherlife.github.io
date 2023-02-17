@@ -424,9 +424,9 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <a href="https://h.land/account/Rock_Radio" target="_blank" rel="nofollow noopener"><span>RockRadio_HLand</span></a>
+    <a href="https://h.land/account/Rock_Radio" target="_blank" rel="nofollow noopener"><span>HLand</span></a>
     <i class="iconfont icon-love"></i>
-    <a href="https://m.hrjh.org/RockRadio" target="_blank" rel="nofollow noopener"><span>RockRadio_聆听</span></a>
+    <a href="https://m.hrjh.org/RockRadio" target="_blank" rel="nofollow noopener"><span>聆听</span></a>
   '
 
   # 展示网站的 PV、UV 统计数
