@@ -41,11 +41,9 @@ categories:
 
 **到这里hexo环境就初步安装好了，接下来就是创建博客，<s>更多的博客编写和个性化配置后面的部分再细说</s>**
 
-初始化自己的博客：`hexo init 自己的博客`
+初始化自己的博客：`hexo init 自己的博客名`
 
-进入创建的文件夹之后执行：`npm install`安装依赖，这样就可以
-
-`hexo g`，`hexo s`在本地`https://localhost:4000`查看默认的博客
+进入创建的文件夹之后执行：`npm install`安装依赖，接下来就可以执行`hexo g`，`hexo s`在本地`https://localhost:4000`查看默认的博客
 
 ### 3. 预备github pages
 
