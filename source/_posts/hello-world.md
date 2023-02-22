@@ -1,5 +1,7 @@
 ---
 title: 简易教程
+tag: 教程
+categories: 技术
 ---
 欢迎来到Asher Mei的自建博客。you can ask me on [GitHub](https://github.com/asherlife/asherlife.github.io/issues).
 

@@ -1,9 +1,9 @@
 ---
 title: Github+hexo新手教程
 tags: 
-- 原创
-categories:
 - 教程
+categories:
+- 技术
 ---
 
 
